@@ -1,2 +1,3 @@
 Hello Git and Github
-i added this!
+My name is Suleyman
+I'm currently going back to the basics!
